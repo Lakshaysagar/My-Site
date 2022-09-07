@@ -134,4 +134,10 @@ a:hover {
     .coding {
         width: 30%;
     }
+    #dis {
+        width: 40%;
+    }
+    #cod {
+        width: 75%;
+    }
   }
