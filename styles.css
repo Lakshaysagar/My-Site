@@ -21,6 +21,7 @@ h2 {
 h3 {
     font-family: 'Montserrat', sans-serif;
     color: #704F4F;
+    font-size: 2rem;
 }
 hr {
     border-style: none ;
@@ -31,6 +32,10 @@ hr {
 }
 p {
     line-height: 1.5;
+    font-size: 1.5rem;
+}
+td {
+    font-size: 1.5rem;
 }
 a {
     color: #B7C4CF;
@@ -122,5 +127,11 @@ a:hover {
   @media only screen and (max-width: 500px) {
     body {
       position: absolute;
+    }
+      .webd {
+        width: 30%;
+    }
+    .coding {
+        width: 30%;
     }
   }
