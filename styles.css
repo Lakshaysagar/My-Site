@@ -140,4 +140,13 @@ a:hover {
     #cod {
         width: 75%;
     }
+    .bottom-cloud {
+        width: 0;
+    }
+    .top-cloud {
+        right: 100px;
+    }
+    .container-fluid {
+        box-sizing: content-box;
+    }
   }
